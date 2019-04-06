@@ -22,6 +22,6 @@
  *
  */
 
-export { AFErrorStack } from "./AFErrorStack"
-export { AFError } from "./AFError"
-export { AFErrorOriginType, AFErrorType } from "./AFErrorTypes"
+export { ECErrorStack } from "./ECErrorStack"
+export { ECError } from "./ECError"
+export { ECErrorOriginType, ECErrorType } from "./ECErrorTypes"

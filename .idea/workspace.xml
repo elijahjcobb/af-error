@@ -2,20 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c8ffd73-eed1-4946-a72e-0d3dafc4ee19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/af-error.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/error.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/AFErrorStack.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/AFErrorStack.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/AFErrorStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/AFErrorStack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/AFIterator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFDictionary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFDictionary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/test.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/test.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/dist/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/af-collections/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFError.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFErrorStack.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFErrorStack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFErrorTypes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/AFErrorTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFCSV.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFCSV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFEnum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFEnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFIterator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFIterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFObject.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFQueue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFQueue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFSet.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFStack.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/AFStack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArray.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArrayList.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArrayList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArrayable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/array/AFArrayable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFDictionary.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFDictionary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMappable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/map/AFMappable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/test.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/dist/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-collections/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFError.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFErrorStack.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFErrorStack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFErrorTypes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/AFErrorTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/af-error/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-code-frame/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/color-name/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diff/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/diff/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esprima/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esprima/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esutils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esutils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-ansi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inflight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/inflight/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/minimatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/once/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/once/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-parse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sprintf-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sprintf-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/wrappy/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts/AFErrorStack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/AFErrorStack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/AFError.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/ECError.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/AFErrorStack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/ECErrorStack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/AFErrorTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/ECErrorTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ts/index.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +117,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,16 +140,17 @@
         <option value="$PROJECT_DIR$/ts/AFError.ts" />
         <option value="$PROJECT_DIR$/ts/index.ts" />
         <option value="$PROJECT_DIR$/ts/AFErrorTypes.ts" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/ts/AFErrorStack.ts" />
+        <option value="$PROJECT_DIR$/ts/ECErrorStack.ts" />
+        <option value="$PROJECT_DIR$/ts/ECErrorTypes.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="538" />
-    <option name="y" value="79" />
     <option name="width" value="1680" />
-    <option name="height" value="949" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,30 +160,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="af-error" type="b2602c69:ProjectViewProjectNode" />
-              <item name="af-error" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="b2602c69:ProjectViewProjectNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="af-error" type="b2602c69:ProjectViewProjectNode" />
-              <item name="af-error" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="b2602c69:ProjectViewProjectNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
               <item name="ts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -141,20 +232,27 @@
       <updated>1554535201532</updated>
       <workItem from="1554535202706" duration="3037000" />
       <workItem from="1554538798621" duration="652000" />
+      <workItem from="1554583472705" duration="4000" />
+      <workItem from="1554583898659" duration="88000" />
+      <workItem from="1554585228711" duration="266000" />
+      <workItem from="1554585584282" duration="336000" />
+      <workItem from="1554587261132" duration="33000" />
+      <workItem from="1554588943343" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3689000" />
+    <option name="totallyTimeSpent" value="5031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -164,7 +262,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32959184" />
       <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2510204" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -186,38 +284,48 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ts/AFErrorOriginType.ts" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ts/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ts/AFErrorTypes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ts/AFError.ts">
+    <entry file="file://$PROJECT_DIR$/ts/ECError.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2085">
           <caret line="139" column="43" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ts/AFErrorStack.ts">
+    <entry file="file://$PROJECT_DIR$/ts/ECErrorTypes.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="243">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ts/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ts/ECErrorStack.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#1177#1213#0" expanded="true" />
           </folding>

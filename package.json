@@ -1,7 +1,7 @@
 {
-  "name": "af-error",
-  "version": "1.0.2",
-  "description": "error handling",
+  "name": "@elijahjcobb/error",
+  "version": "0.0.3",
+  "description": "An in depth error handling package.",
   "main": "dist/index",
   "types": "dist/index",
   "scripts": {
@@ -13,25 +13,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elijahjcobb/af-error.git"
+    "url": "git+https://github.com/elijahjcobb/error.git"
   },
   "keywords": [],
   "author": "Elijah Cobb <elijah@elijahcobb.com> (https://elijahcobb.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elijahjcobb/af-error/issues"
+    "url": "https://github.com/elijahjcobb/error/issues"
   },
-  "homepage": "https://github.com/elijahjcobb/af-error#readme",
+  "homepage": "https://github.com/elijahjcobb/error#readme",
   "dependencies": {
-    "typescript": "*",
-    "@types/node": "*"
+    "@elijahjcobb/collections": "latest",
+    "@types/node": "latest",
+    "typescript": "latest"
   },
   "devDependencies": {
-    "@types/node": "*",
-    "af-collections": "^1.0.9",
-    "typescript": "*"
+    "@types/node": "latest",
+    "typescript": "latest"
   },
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
