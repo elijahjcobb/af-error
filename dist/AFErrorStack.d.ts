@@ -23,7 +23,7 @@
  */
 import { AFError } from "./AFError";
 import { AFErrorType, AFErrorOriginType } from "./AFErrorTypes";
-import { ArrayList as AFArrayList } from "af-collections";
+import { AFArrayList } from "af-collections";
 /**
  * A class representing a collection of AFError instances.
  */

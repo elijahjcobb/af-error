@@ -1,6 +1,6 @@
 {
   "name": "af-error",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "error handling",
   "main": "dist/index",
   "types": "dist/index",
@@ -24,13 +24,12 @@
   "homepage": "https://github.com/elijahjcobb/af-error#readme",
   "dependencies": {
     "typescript": "*",
-    "@types/node": "*",
-    "af-collections": "*"
+    "@types/node": "*"
   },
   "devDependencies": {
-    "typescript": "*",
     "@types/node": "*",
-    "af-collections": "*"
+    "af-collections": "^1.0.9",
+    "typescript": "*"
   },
   "files": [
     "dist"

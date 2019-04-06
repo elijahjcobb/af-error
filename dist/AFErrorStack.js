@@ -31,7 +31,7 @@ const af_collections_1 = require("af-collections");
  */
 class AFErrorStack {
     constructor() {
-        this.trace = new af_collections_1.ArrayList();
+        this.trace = new af_collections_1.AFArrayList();
     }
     /**
      * Tack on a generic error message to this stack instance.
