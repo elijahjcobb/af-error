@@ -1,6 +1,6 @@
 {
   "name": "@elijahjcobb/error",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "An in depth error handling package.",
   "main": "dist/index",
   "types": "dist/index",
@@ -15,7 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/elijahjcobb/error.git"
   },
-  "keywords": [],
+  "keywords": [
+    "error",
+    "stack",
+    "message",
+    "debug",
+    "alert"
+  ],
   "author": "Elijah Cobb <elijah@elijahcobb.com> (https://elijahcobb.com/)",
   "license": "MIT",
   "bugs": {
