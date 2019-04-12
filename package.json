@@ -1,6 +1,6 @@
 {
   "name": "@elijahjcobb/error",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "An in depth error handling package.",
   "main": "dist/index",
   "types": "dist/index",
@@ -29,9 +29,7 @@
   },
   "homepage": "https://github.com/elijahjcobb/error#readme",
   "dependencies": {
-    "@elijahjcobb/collections": "latest",
-    "@types/node": "latest",
-    "typescript": "latest"
+    "@elijahjcobb/collections": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
